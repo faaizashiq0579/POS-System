@@ -1,0 +1,6 @@
+=== K&B MART ===
+User:Admin
+2025-10-10 11:57:51.710596
+Item            Qty          Price    Total: 
+Ear cleaner  1  160.0   160.0
+Thank you for shopping!
